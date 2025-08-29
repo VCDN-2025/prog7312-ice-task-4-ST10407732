@@ -1,0 +1,14 @@
+C:\Users\davyc\source\repos\ProductInventoryManager\bin\Debug\net8.0\ProductInventoryManager.exe
+C:\Users\davyc\source\repos\ProductInventoryManager\bin\Debug\net8.0\ProductInventoryManager.deps.json
+C:\Users\davyc\source\repos\ProductInventoryManager\bin\Debug\net8.0\ProductInventoryManager.runtimeconfig.json
+C:\Users\davyc\source\repos\ProductInventoryManager\bin\Debug\net8.0\ProductInventoryManager.dll
+C:\Users\davyc\source\repos\ProductInventoryManager\bin\Debug\net8.0\ProductInventoryManager.pdb
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.AssemblyInfoInputs.cache
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.AssemblyInfo.cs
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.dll
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\refint\ProductInventoryManager.dll
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.pdb
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ProductInventoryManager.genruntimeconfig.cache
+C:\Users\davyc\source\repos\ProductInventoryManager\obj\Debug\net8.0\ref\ProductInventoryManager.dll
